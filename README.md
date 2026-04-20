@@ -28,6 +28,13 @@ This implementation addresses all requirements from the Tredence Analytics AI En
 - [x] Gate distribution visualization
 - [x] Comprehensive technical report
 
+## 📂 Dataset
+
+This project uses the CIFAR-10 dataset.
+
+Download it from:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -293,9 +300,9 @@ This implementation demonstrates:
 ## 📞 Contact
 
 For questions or discussions about this implementation:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: hs4772@srmist.edu.in
+- **GitHub**: [HARSHS1626](https://github.com/HARSHS1626)
+- **LinkedIn**: Harsh Saini (https://www.linkedin.com/in/harsh-saini-b29171362/)
 
 ## 📄 License
 
